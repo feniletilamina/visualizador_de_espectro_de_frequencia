@@ -1,3 +1,6 @@
+# Link do video
+- https://www.youtube.com/shorts/CBJmNtGZdpM
+
 # Visualizador de Espectro de Frequência
 
 Este projeto utiliza a biblioteca: [pico_fft](https://github.com/Googool/pico_fft)
@@ -7,7 +10,7 @@ Este projeto utiliza a biblioteca: [pico_fft](https://github.com/Googool/pico_ff
 Para a instalação da biblioteca `pico_fft`, siga os seguintes passos:
 
 1. Clone o repositório `pico_fft`:
-```bash
+bash
 git clone https://github.com/Googool/pico_fft.git
 
 
