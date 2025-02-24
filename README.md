@@ -19,6 +19,8 @@ mv pico_fft /caminho/para/visualizador_de_espectro_de_frequencia
 
 
 3. Altere o arquivo CMakeLists.txt dentro da pasta pico_fft para:
+
+```CMAKE
 # Set minimum required version of CMake
 cmake_minimum_required(VERSION 3.13)
 
@@ -51,4 +53,4 @@ target_link_libraries(${PROJECT_NAME} PUBLIC
     pico_stdlib
     hardware_adc
     hardware_dma
-)
+)```
